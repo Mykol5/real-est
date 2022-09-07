@@ -4996,7 +4996,7 @@ function Logo(_ref) {
     }
   }), Object(theme_ui__WEBPACK_IMPORTED_MODULE_1__["jsx"])(theme_ui__WEBPACK_IMPORTED_MODULE_1__["Image"], {
     src: src,
-    alt: "startup landing logo",
+    alt: "shelters house logo",
     __self: this,
     __source: {
       fileName: _jsxFileName,
