@@ -31,7 +31,7 @@ const data = {
       altText: 'Smart Features',
       title: 'Digitalize Real Estate',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'We aim at bringing great innovations into real estate sector in Africa through the power of Information Technology.',
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const data = {
       altText: 'Secure Contents',
       title: 'Excellent Service Delivery',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Easily verify properties in seconds with our technological means and acquire them privately at Shelters.',
     },
   ],
 };
